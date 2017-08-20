@@ -1,0 +1,19 @@
+{
+  "name": "taras_sites",
+  "version": "1.0.0",
+  "description": "",
+  "engines": {
+    "node": "7.10.0"
+  },
+  
+  "scripts": {
+    "start" : "node server.js"
+  },
+
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+
+  "author": "Telek",
+  "license": "ISC"
+}
